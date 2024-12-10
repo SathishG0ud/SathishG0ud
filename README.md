@@ -1,5 +1,5 @@
 <h1 align="center" style="color: skyblue; transition: color 0.3s ease;">Hi 👋, I'm Sathish_g0ud</h1>
-<h5 align="center">I am a skilled full-stack developer with a strong foundation in Python and Django. I have experience in building robust and scalable web applications from the ground up. My projects have involved designing and implementing user-friendly interfaces, developing efficient backend systems, and integrating with various APIs and databases. I am proficient in HTML, CSS, JavaScript. I am passionate about crafting clean, maintainable, and high-performance code, and I am always eager to learn and explore new technologies.</h5>
+<h4 align="center">I am a skilled full-stack developer with a strong foundation in Python and Django. I have experience in building robust and scalable web applications from the ground up. My projects have involved designing and implementing user-friendly interfaces, developing efficient backend systems, and integrating with various APIs and databases. I am proficient in HTML, CSS, JavaScript. I am passionate about crafting clean, maintainable, and high-performance code, and I am always eager to learn and explore new technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishg0ud&label=Profile%20views&color=0e75b6&style=flat" alt="sathishg0ud" /> </p>
 
